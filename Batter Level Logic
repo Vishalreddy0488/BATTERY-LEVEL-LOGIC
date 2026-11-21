@@ -1,0 +1,41 @@
+Battery Level Monitoring System
+
+Project Overview
+
+The Battery Level Monitoring System is an Embedded Systems project designed to monitor battery voltage and indicate whether the voltage level is low, normal, or high (overvoltage).
+The system uses an analog input to measure voltage and processes the received signal using the ESP32's built-in Analog-to-Digital Converter (ADC).
+
+Hardware and Software
+- ESP32 Microcontroller
+- Wokwi Simulator
+- Arduino Programming Environment
+- Analog Voltage Input
+
+Working Principle
+1. The system receives an analog voltage input.
+2. The ESP32 ADC reads the input signal.
+3. The program processes the voltage reading.
+4. The system identifies whether the voltage is low, normal, or high.
+5. The corresponding voltage condition is indicated.
+
+Project Files
+- "sketch.ino" – ESP32 programming code.
+- "diagram.json" – Circuit design and component connections.
+- "wokwi-project.txt" – Wokwi project information.
+
+Applications
+- Battery voltage monitoring
+- Embedded system learning
+- Voltage-level indication
+- Electronics and microcontroller projects
+
+Simulation
+Developed and simulated using Wokwi.
+
+Project Status
+completed- Initial version uploaded to Github.
+
+
+Project Status
+
+Completed – Initial version uploaded to GitHub.
