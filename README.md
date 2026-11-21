@@ -1,7 +1,6 @@
-Battery Level Monitoring System
+Battery Level Logic
 
 Project Overview
-
 The Battery Level Monitoring System is an Embedded Systems project designed to monitor battery voltage and indicate whether the voltage level is low, normal, or high (overvoltage).
 The system uses an analog input to measure voltage and processes the received signal using the ESP32's built-in Analog-to-Digital Converter (ADC).
 
